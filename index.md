@@ -40,4 +40,4 @@ Els diferents edificis emblemàtics amb els que treballa RECON_TERRASSA són els
 12. El teatre principal
 13. Y una altra classe que permetria classificar els edificis que no són cap d'aquets nombrats anteriorment que s'anomena 'desconegut'.
 
-![](https://drive.google.com/file/d/0B2LCpr6ue8UhMVRlV1l5TFh4emM/view?usp=sharing)
+![](file:///Users/joanviscarri/Desktop/sift_keypoints.jpg)
