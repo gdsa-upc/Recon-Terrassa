@@ -1,4 +1,4 @@
-![](http://s10.postimg.org/i8n01l7q1/logo_positiu_1.jpg)
+
 
 ## QUÍ SOM?
 Aquest equip està format per Albert Yanguas Rovira estudiant del Grau en Enginyeria de Sistemes Audiovisuals i en Joan Viscarri Garcia també estudiant del Grau en Enginyeria de Sistemes Audiovisuals.
@@ -26,14 +26,11 @@ Els diferents edificis emblemàtics amb els que treballa RECON_TERRASSA són els
 12. El teatre principal
 13. Y una altra classe que permetria classificar els edificis que no són cap d'aquets nombrats anteriorment que s'anomena 'desconegut'.
 
+
 ## Estructura del cercador Recon - Terrassa
 
 ![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/Sin%20ti%CC%81tulo.png)
 
-Build database 		—> Base de dades amb les imatges de Terrassa  amb les que treballa el programa 
-![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/bd.png)
-Feature extraction 	—> Procés en el que el programa extreu els descriptors de les imatges 
-![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/sift_keypoints.jpg?raw=true)
 
 ## PROJECTE
 Aquí es pot trobar totes les sessions on es veu el creixement del projecte. Cada una d’elles mostre les millores de cada apartat, totes les opcions e idees que al final han sigut descartades, entre d'altres coses.
@@ -49,3 +46,9 @@ Aquí es pot trobar totes les sessions on es veu el creixement del projecte. Cad
 
 ***
  * [sessió final](https://drive.google.com/open?id=16YerQ_28_6LCavgTKSptG-d9YENj5Bh6H982EW8Fx_E)
+
+
+
+## RESULTATS DEL PROGRAMA
+
+![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/map.png)
