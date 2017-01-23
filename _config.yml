@@ -1,8 +1,9 @@
 title: RECON-TERRASSA
 description: cercador visual d'imatges
-google_analytics: 
+google_analytics: ![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/map.png)
 show_downloads: true
 theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
+  ![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/map.png)
