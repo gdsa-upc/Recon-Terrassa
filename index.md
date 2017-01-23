@@ -50,4 +50,4 @@ Aquí es pot trobar totes les sessions on es veu el creixement del projecte. Cad
 
 ## RESULTATS DEL PROGRAMA
 
-![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/map.png)
+<IMG SRC="https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/map.png" WIDTH=600 HEIGHT=360 ALT="360" ALIGN=middle>
