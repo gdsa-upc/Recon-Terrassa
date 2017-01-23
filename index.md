@@ -27,9 +27,11 @@ Els diferents edificis emblemàtics amb els que treballa RECON_TERRASSA són els
 13. Y una altra classe que permetria classificar els edificis que no són cap d'aquets nombrats anteriorment que s'anomena 'desconegut'.
 
 ## Estructura del cercador Recon - Terrassa
-![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/Sin%20ti%CC%81tulo.png)
-Build database 		—> Base de dades amb les imatges de Terrassa  amb les que treballa el programa 
 
+![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/Sin%20ti%CC%81tulo.png)
+
+Build database 		—> Base de dades amb les imatges de Terrassa  amb les que treballa el programa 
+![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/bd.png)
 Feature extraction 	—> Procés en el que el programa extreu els descriptors de les imatges 
 ![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/sift_keypoints.jpg?raw=true)
 
