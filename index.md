@@ -1,5 +1,5 @@
- <IMG SRC="https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/logo_amb_black.png" WIDTH=300 HEIGHT=180 ALT="180" ALIGN=middle>
- ## RECON-TERRASSA 
+ ## RECON-TERRASSA  <IMG SRC="https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/logo_amb_black.png" WIDTH=300 HEIGHT=180 ALT="180" ALIGN=middle>
+
  <IMG SRC="https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/logo-vector-universitat-politecnica-catalunya.jpg" WIDTH=300 HEIGHT=180 ALT="180" ALIGN=middle> 
 
 ## QUÍ SOM?
