@@ -1,4 +1,4 @@
-
+# RECON-TERRASSA ![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/logo_amb_black.png)  ![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/logo-vector-universitat-politecnica-catalunya.jpg)
 
 ## QUÍ SOM?
 Aquest equip està format per Albert Yanguas Rovira estudiant del Grau en Enginyeria de Sistemes Audiovisuals i en Joan Viscarri Garcia també estudiant del Grau en Enginyeria de Sistemes Audiovisuals.
