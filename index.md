@@ -10,6 +10,9 @@ Recon-Terrassa està implementada i desenvolupada amb el llenguatge Python, que 
 
 Els usuaris poden prendre una fotografia d'aquests edificis i obtenir informació d'interés sobre aquest edifici si es troba dins la nostra base de dades.
 
+# Estructura del cercador Recon - Terrassa
+
+![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/Sin%20ti%CC%81tulo.png)
 Els diferents edificis emblemàtics amb els que treballa RECON_TERRASSA són els següents:
 
 1. L' ajuntament de Terrassa
@@ -25,11 +28,6 @@ Els diferents edificis emblemàtics amb els que treballa RECON_TERRASSA són els
 11. La societat general
 12. El teatre principal
 13. Y una altra classe que permetria classificar els edificis que no són cap d'aquets nombrats anteriorment que s'anomena 'desconegut'.
-
-
-## Estructura del cercador Recon - Terrassa
-
-![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/Sin%20ti%CC%81tulo.png)
 
 
 ## PROJECTE
