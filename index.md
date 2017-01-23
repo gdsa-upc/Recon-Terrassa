@@ -10,7 +10,7 @@ Recon-Terrassa està implementada i desenvolupada amb el llenguatge Python, que 
 
 Els usuaris poden prendre una fotografia d'aquests edificis i obtenir informació d'interés sobre aquest edifici si es troba dins la nostra base de dades.
 
-# Estructura del cercador Recon - Terrassa
+### Estructura del cercador Recon - Terrassa
 
 ![](https://github.com/gdsa-upc/Recon-Terrassa/blob/gh-pages/images/Sin%20ti%CC%81tulo.png)
 Els diferents edificis emblemàtics amb els que treballa RECON_TERRASSA són els següents:
